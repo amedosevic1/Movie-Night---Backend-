@@ -14,3 +14,8 @@ Web aplikacija za pregled i izbor filma. Omogućene su sljedeće opcije:
 
 ![Front page](https://user-images.githubusercontent.com/73390091/160289620-b4010e60-37b8-4f37-adb1-b6ef58f67912.png)
 
+## Izgled forme
+
+![Add page](https://user-images.githubusercontent.com/73390091/160290071-3106c3eb-79e8-4225-9fa0-d9a45ad7e372.png)
+
+
